@@ -1,3 +1,3 @@
-# Personal-Portfolio----Website
-A responsive personal portfolio website.
+Personal Portfolio Website.
+Responsive
 With HTML, CSS, and Javascript.
