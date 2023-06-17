@@ -1,3 +1,3 @@
 Personal Portfolio Website.
 Responsive
-With HTML, CSS, and Javascript.
+HTML, CSS, and Javascript used
